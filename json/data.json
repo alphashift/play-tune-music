@@ -3,5 +3,9 @@
     "LatestVersionCode": 2,
     "ForceUpdate": false
   },
-  "AppStart": false
+  "AdConfig": {
+    "ShowOnAppStart": false,
+    "InterstitialShowDelay": 30,
+    "InterstitialLoadInterval": 10000
+  }
 }
