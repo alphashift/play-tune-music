@@ -5,7 +5,7 @@
   },
   "AdConfig": {
     "ShowOnAppStart": false,
-    "InterstitialShowDelay": 20,
-    "InterstitialLoadInterval": 10000
+    "InterstitialShowDelay": 45,
+    "InterstitialLoadInterval": 20000
   }
 }
